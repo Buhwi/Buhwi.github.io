@@ -2,7 +2,7 @@
 layout: post
 title: post-test
 date: 2025-03-27 19:20:23 +0900
-category: test
+category: sample
 ---
 # post-sample
 > Test github page
